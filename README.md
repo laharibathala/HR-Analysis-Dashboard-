@@ -2,11 +2,9 @@
 
 ## 📌 Project Overview
 
-The HR Analytics Dashboard is an interactive Microsoft Excel project
-developed to analyze and visualize employee-related data.
+- The HR Analytics Dashboard is an interactive Microsoft Excel project developed to analyze and visualize employee-related data.
 
-The dashboard provides insights into employee salary, attendance,
-performance, experience, departments, and workforce distribution.
+- The dashboard provides insights into employee salary, attendance, performance, experience, departments, and workforce distribution.
 
 ## 🎯 Project Objectives
 
@@ -67,37 +65,35 @@ The dashboard provides insights into:
  -  ⚧️ Gender Distribution
 
 ## 🔍 Key Business Questions
-This project helps answer questions such as:
+- This project helps answer questions such as:
 
-Which departments have the highest number of employees?
-Which departments offer the highest average salary?
-How is employee performance distributed?
-What is the relationship between experience and performance?
-Which locations have the highest employee count?
-How does attendance vary across employees?
-What is the overall salary distribution?
-How many employees have completed their assigned projects and goals?
+- Which departments have the highest number of employees?
+- Which departments offer the highest average salary?
+- How is employee performance distributed?
+- What is the relationship between experience and performance?
+- Which locations have the highest employee count?
+- How does attendance vary across employees?
+- What is the overall salary distribution?
+- How many employees have completed their assigned projects and goals?
 
 ## 🚀 Skills Demonstrated
 Through this project, I strengthened my skills in:
 
-Data Cleaning
-Data Analysis
-Excel
-Pivot Tables
-Data Visualization
-KPI Analysis
-Dashboard Development
-Business Insight Generation
+- Data Cleaning
+- Data Analysis
+- Excel
+- Pivot Tables
+- Data Visualization
+- KPI Analysis
+- Dashboard Development
+- Business Insight Generation
 ## 📷 Dashboard Preview
 
 ![HR Analytics Dashboard](HR-Analysis-Dashboard.png)
 
 ## 🚀 Project Outcome
 
-This project demonstrates how Microsoft Excel can be used to
-transform raw HR data into meaningful insights through data
-cleaning, analysis, visualization, and dashboard development.
+- This project demonstrates how Microsoft Excel can be used to transform raw HR data into meaningful insights through data cleaning, analysis, visualization, and dashboard development.
 
 ## 👩‍💻 Author
 
