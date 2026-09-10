@@ -42,31 +42,53 @@ and analysis performed on the raw dataset.
 ### 3. Dashboard
 Contains the final interactive HR Analytics Dashboard
 with KPIs, charts, and visualizations.
+### 4. Dashboard (2)
+Contains an additional/final version of the dashboard.
 
-## 📊 Dashboard Features
+##  4. Dashboard (2)
+Contains an additional/final version of the dashboard.
 
-- Total Employees
-- Average Salary
-- Employee Distribution
-- Department-wise Analysis
-- Salary Analysis
-- Attendance Analysis
-- Performance Analysis
-- Experience Analysis
-- Employee Status
-- Interactive Slicers and Filters
+## 📈 Key KPIs & Analysis
+The dashboard provides insights into:
 
-## 🔍 Key Insights
+💰 Total Salary
+💼 Average Salary
+⏱️ Total Working Hours
+📊 Project Completion
+🎯 Goal Completion
+📅 Attendance
+👥 Employee Count
+🏢 Department-wise Employee Distribution
+💵 Department-wise Average Salary
+📍 Location-wise Employee Distribution
+⭐ Performance Rating
+👨‍💼 Employee Experience
+👤 Employee Status
+⚧️ Gender Distribution
 
-The dashboard helps identify:
+## 🔍 Key Business Questions
+This project helps answer questions such as:
 
-- Salary distribution across employees
-- Department-wise workforce distribution
-- Employee attendance patterns
-- Performance and goal completion trends
-- Experience levels across the workforce
-- Workforce characteristics and employee status
+Which departments have the highest number of employees?
+Which departments offer the highest average salary?
+How is employee performance distributed?
+What is the relationship between experience and performance?
+Which locations have the highest employee count?
+How does attendance vary across employees?
+What is the overall salary distribution?
+How many employees have completed their assigned projects and goals?
 
+## 🚀 Skills Demonstrated
+Through this project, I strengthened my skills in:
+
+Data Cleaning
+Data Analysis
+Excel
+Pivot Tables
+Data Visualization
+KPI Analysis
+Dashboard Development
+Business Insight Generation
 ## 📷 Dashboard Preview
 
 ![HR Analytics Dashboard](HR-Analysis-Dashboard.png)
@@ -80,3 +102,6 @@ cleaning, analysis, visualization, and dashboard development.
 ## 👩‍💻 Author
 
 **Lahari Bathala**
+Aspiring Data Analyst | Excel | SQL | Python | Power BI
+
+⭐ If you find this project useful, feel free to explore the repository and share your feedback.
