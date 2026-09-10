@@ -51,20 +51,20 @@ Contains an additional/final version of the dashboard.
 ## 📈 Key KPIs & Analysis
 The dashboard provides insights into:
 
- 💰 Total Salary
- 💼 Average Salary
- ⏱️ Total Working Hours
- 📊 Project Completion
- 🎯 Goal Completion
- 📅 Attendance
- 👥 Employee Count
- 🏢 Department-wise Employee Distribution
-  💵 Department-wise Average Salary
- 📍 Location-wise Employee Distribution
- ⭐ Performance Rating 
- 👨‍💼 Employee Experience
- 👤 Employee Status
-  ⚧️ Gender Distribution
+ - 💰 Total Salary
+ - 💼 Average Salary
+ - ⏱️ Total Working Hours
+ - 📊 Project Completion
+ - 🎯 Goal Completion
+ - 📅 Attendance
+ - 👥 Employee Count
+ - 🏢 Department-wise Employee Distribution
+ - 💵 Department-wise Average Salary
+ - 📍 Location-wise Employee Distribution
+ - ⭐ Performance Rating 
+ - 👨‍💼 Employee Experience
+ - 👤 Employee Status
+ -  ⚧️ Gender Distribution
 
 ## 🔍 Key Business Questions
 This project helps answer questions such as:
